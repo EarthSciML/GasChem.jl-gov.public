@@ -1,0 +1,1 @@
+{"id":"qs2wwoop4crf2hn4vya7vsl5kixnc5h2dlqe77yx2vrq6ebtzftq","stamp":"2024-07-12T16:24:52.070561752Z","payload":{"motion":{"open":null,"close":{"id":"45","type":"proposal","policy":"pmp-proposal","decision":"accept","receipts":[{"account":"pmp+matching","type":"bounty","amount":{"asset":"plural","quantity":0}}]},"cancel":null}}}

@@ -1,0 +1,1 @@
+{"id":"ebdsp44ox5cgi53jtezkf3d2mjjws2ei55nw64vz33adofogjs7a","stamp":"2024-07-12T16:24:52.057669097Z","payload":{"op":"account_transfer","note":"bounty for proposal 45","args":{"amount":{"asset":"plural","quantity":0},"from":"motion:45+pmp-proposal-bounty","to":"pmp+matching"}}}

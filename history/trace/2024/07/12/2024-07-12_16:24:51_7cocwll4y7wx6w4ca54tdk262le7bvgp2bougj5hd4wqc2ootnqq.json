@@ -1,0 +1,1 @@
+{"id":"7cocwll4y7wx6w4ca54tdk262le7bvgp2bougj5hd4wqc2ootnqq","stamp":"2024-07-12T16:24:51.988027019Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot pmp/motion/priority_poll/37","args":{"amount":{"asset":"plural","quantity":9},"from":"ballot_escrow:pmp/motion/priority_poll/37","to":"user:ctessum"}}}
